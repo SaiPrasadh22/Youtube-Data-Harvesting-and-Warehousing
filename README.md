@@ -52,9 +52,6 @@ streamlit run app.py
 - You can select different options from the sidebar to view channels, videos, comments, or execute predefined queries.
 - For querying, select the desired query from the dropdown and view the results.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
